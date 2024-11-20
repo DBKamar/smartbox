@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "smartbox-a4210": {
+      "hosting": {
+        "smartbox": [
+          "smartbox-a4210"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "smartbox-a4210"
+  }
+}
